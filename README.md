@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Beatriz
 
-![Banner](https://github.com/Bea2691/Bea2691/raw/main/banner.png)
+![Banner](https://github.com/Bea2691/Bea2691/raw/main/banner2.png)
 
 🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma, a puntito de acabar!!  
 
