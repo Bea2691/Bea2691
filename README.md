@@ -1,4 +1,4 @@
-### ¡Hola! 👋 Soy Beatriz
+## ¡Hola! 👋 Soy Beatriz
 
 ![Banner](https://github.com/Bea2691/Bea2691/raw/main/banner2.png)
 
