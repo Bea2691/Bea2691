@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Beatriz
 
-<!--
-**Bea2691/Bea2691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](banner.png)
 
-Here are some ideas to get you started:
+🎓 Estudiante de Desarrollo de Aplicaciones Multiplataforma, a puntito de acabar!!  
+💻 Actualmente adentrandome en SpringBoot, APIs y Postman.
+🚲 Becaria en prácticas, y terminando el proyecto FCT.
+🐱 Tengo una gata preciosa que se llama Mika. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tecnologías que uso:
+- Android Studio.
+- IntelliJ, Eclipse, VSCode & Git.
+- Firebase, Hibernate.
+- Java, Python, SQL, MongoDB.
+
+✨ ¡Siempre aprendiendo y buscando mejorar!
