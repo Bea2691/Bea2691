@@ -6,7 +6,7 @@
 
 💻 Actualmente adentrandome en SpringBoot, APIs y Postman.
 
-🚲 Becaria en prácticas, y terminando el proyecto FCT.
+🚲 Becaria en prácticas, y con el proyecto TFC recién sacado.
 
 🐱 Tengo una gata preciosa que se llama Mika. 
 
